@@ -11,7 +11,6 @@
 
 ### 4. RAG
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/GenAIManagers/blob/main/RAG_Infosys_quarterly_report.ipynb)
-https://github.com/manaranjanp/GenAIManagers/blob/main/
 
 ### 5. Stock Analysis Agents
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/GenAIManagers/blob/main/Function_Calling.ipynb)
