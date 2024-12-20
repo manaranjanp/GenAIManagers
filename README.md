@@ -15,3 +15,7 @@
 ### 5. Stock Analysis Agents
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/GenAIManagers/blob/main/Function_Calling.ipynb)
 
+### 6. RAG Evaluation
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/GenAIManagers/blob/main/RAG%20Evaluation.ipynb)
+
+
